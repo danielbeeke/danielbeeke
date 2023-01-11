@@ -9,5 +9,7 @@ I am also available for contract work in the area of small websites and webapps.
 - 👯 I’m looking to collaborate on funding for RDF based open source liberaries
 - 💬 Ask me about Deno, TypeScript, JavaScript, Linux
 
+Website: [danielbeeke.nl](https://danielbeeke.nl)
+
 <a href="https://liberapay.com/danielbeeke/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
