@@ -1,6 +1,6 @@
 ### Hi I am Daniel Beeke 👋
 
-I am a software developer living near Vienna, Austria. I like RDF and TypeScript. I have made some Open Source libraries and I am actively trying to do more open source in the RDF space. If you like RDF and are missing open source libraries, please contact me. I am actively persuing work in this space. You can also sponsor me on a more general basis.
+I am a software developer living in Amersfoort, the Netherlands. I like RDF and TypeScript. I have made some Open Source libraries and I am actively trying to do more open source in the RDF space. If you like RDF and are missing open source libraries, please contact me. I am actively persuing work in this space. You can also sponsor me on a more general basis.
 
 I am also available for contract work in the area of small websites and webapps. I am able to work with the following technologies: React, Vue, Vanilla JavaScript / TypeScript, Deno, Express etc.
 
